@@ -1,0 +1,2 @@
+# managePersonalEvents
+Manager persional event
