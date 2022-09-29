@@ -21,7 +21,8 @@
     "mocha": "^10.0.0"
   },
   "scripts": {
-    "test": "mocha"
+    "start": "nodemon app.js",
+    "test": "mocha --timeout=10000"
   },
   "repository": {
     "type": "git",
