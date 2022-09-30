@@ -152,6 +152,7 @@ async function filterEvents(req, res) {
         const totalEvents = await Events.countDocuments();
 
         res.send({
+            success: true,
             page: page,
             total: totalEvents,
             data: data,

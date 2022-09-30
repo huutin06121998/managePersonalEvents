@@ -24,3 +24,5 @@ app.listen(PORT, () => {
 
 app.use('/api/', eventRoutes);
 app.use('/user/', userRoutes);
+
+module.exports = app;
