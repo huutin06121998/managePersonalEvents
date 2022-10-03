@@ -33,10 +33,10 @@
 # Data
 # name
 # description
-# Method: GET
 # Method: PATCH
 
 # Delete events: https://manager-event-personal.herokuapp.com/api/events/:id
 # Method: DELETE
 
 # Filter events: https://manager-event-personal.herokuapp.com/api/events/filter/?page=1&size=10
+# Method: GET
