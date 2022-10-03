@@ -33,6 +33,7 @@
 # Data
 # name
 # description
+# Method: GET
 # Method: PATCH
 
 # Delete events: https://manager-event-personal.herokuapp.com/api/events/:id
